@@ -1,0 +1,8 @@
+
+
+minio:
+  bucket: test
+  enabled: true
+  url: http://localhost:9000
+  accessKey: admin
+  secretKey: password
